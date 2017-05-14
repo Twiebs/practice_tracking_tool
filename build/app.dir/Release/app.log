@@ -1,0 +1,17 @@
+﻿  main.cpp
+d:\workspace\practicar\thirdparty/json.hpp(6923): warning C4003: not enough actual parameters for macro 'max'
+D:\workspace\practicar\main.cpp(63): warning C4003: not enough actual parameters for macro 'ImRGB8'
+D:\workspace\practicar\main.cpp(64): warning C4003: not enough actual parameters for macro 'ImRGB8'
+D:\workspace\practicar\main.cpp(65): warning C4003: not enough actual parameters for macro 'ImRGB8'
+D:\workspace\practicar\main.cpp(66): warning C4003: not enough actual parameters for macro 'ImRGB8'
+D:\workspace\practicar\main.cpp(165): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+D:\workspace\practicar\main.cpp(205): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\workspace\practicar\main.cpp(248): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\workspace\practicar\main.cpp(284): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+D:\workspace\practicar\main.cpp(284): warning C4244: 'argument': conversion from 'const uint32_t' to 'float', possible loss of data
+D:\workspace\practicar\main.cpp(285): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+D:\workspace\practicar\main.cpp(315): warning C4018: '<': signed/unsigned mismatch
+D:\workspace\practicar\main.cpp(337): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+D:\workspace\practicar\main.cpp(343): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\workspace\practicar\main.cpp(122): warning C4715: '<lambda_3bc3738a26e441e87559f617f334761e>::operator()': not all control paths return a value
+  app.vcxproj -> D:\workspace\practicar\build\Release\app.exe

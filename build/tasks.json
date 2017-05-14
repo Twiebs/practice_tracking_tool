@@ -1,0 +1,659 @@
+{
+  "lastAccessTime": 0,
+  "tasks": [
+    {
+      "description": "Find the random rotation amount in an array that is sorted in\nascending values.",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1485808044,
+          "type": 0
+        }
+      ],
+      "name": "Find rotation in asscending array",
+      "notes": ""
+    },
+    {
+      "description": "- [2017-01-23] Figure out if the discriminate needs to include 4a and not just c\n  and if the denomonator needs to be counted",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1485808044,
+          "type": 0
+        },
+        {
+          "difficulty": 2,
+          "time": 1485147600,
+          "type": 1
+        },
+        {
+          "difficulty": 2,
+          "time": 1485894444,
+          "type": 2
+        },
+        {
+          "difficulty": 2,
+          "time": 1486672044,
+          "type": 1
+        },
+        {
+          "difficulty": 1,
+          "time": 1486672044,
+          "type": 2
+        }
+      ],
+      "name": "Implement Ray-Sphere intersection test",
+      "notes": "Sphere: x^2 + y^2 + z^2 = r^2 when its at the origin\nDot product: A dot B = ||A|| ||B|| cos(theta)\n"
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1485808044,
+          "type": 0
+        },
+        {
+          "difficulty": 2,
+          "time": 1487708844,
+          "type": 1
+        },
+        {
+          "difficulty": 2,
+          "time": 1487795244,
+          "type": 2
+        }
+      ],
+      "name": "Merge Sort",
+      "notes": ""
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1485808044,
+          "type": 0
+        },
+        {
+          "difficulty": 1,
+          "time": 1485808044,
+          "type": 1
+        },
+        {
+          "difficulty": 1,
+          "time": 1485808044,
+          "type": 2
+        }
+      ],
+      "name": "Difference between Critical Section and Mutex",
+      "notes": "Mutex can be shared between processess and always causes a system\ncall.  Critical Sections are local process only and will avoid\nthe systemcall if there is no contention."
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1485808044,
+          "type": 0
+        },
+        {
+          "difficulty": 2,
+          "time": 1486672044,
+          "type": 1
+        },
+        {
+          "difficulty": 2,
+          "time": 1486672044,
+          "type": 2
+        }
+      ],
+      "name": "Write a simple sphere ray tracer in shader toy",
+      "notes": ""
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1485061338,
+          "type": 0
+        }
+      ],
+      "name": "LRU Cache",
+      "notes": ""
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1485061338,
+          "type": 0
+        }
+      ],
+      "name": "Delunay Triangulation",
+      "notes": ""
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1485061338,
+          "type": 0
+        }
+      ],
+      "name": "Implement malloc and free",
+      "notes": ""
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1485061338,
+          "type": 0
+        }
+      ],
+      "name": "Determine if a point is inside a 2D convex polygon",
+      "notes": ""
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1485808044,
+          "type": 0
+        },
+        {
+          "difficulty": 2,
+          "time": 1487881644,
+          "type": 1
+        },
+        {
+          "difficulty": 2,
+          "time": 1487881644,
+          "type": 2
+        }
+      ],
+      "name": "QuickSort",
+      "notes": ""
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1485808044,
+          "type": 0
+        }
+      ],
+      "name": "RadixSort",
+      "notes": ""
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1485808044,
+          "type": 0
+        }
+      ],
+      "name": "HashTable",
+      "notes": ""
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1485808044,
+          "type": 0
+        }
+      ],
+      "name": "Implement Min Heap",
+      "notes": ""
+    },
+    {
+      "description": "- implement insert/push\n- implement extract/pop\n- implement buildHeap\n",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1485808044,
+          "type": 0
+        },
+        {
+          "difficulty": 2,
+          "time": 1487363244,
+          "type": 1
+        },
+        {
+          "difficulty": 1,
+          "time": 1487622444,
+          "type": 2
+        }
+      ],
+      "name": "Implement BinaryHeap",
+      "notes": "- left index = i * 2 + 1\n- right index = i * 2 + 2\n- parent index = (i - 1) / 2"
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1485808044,
+          "type": 0
+        },
+        {
+          "difficulty": 2,
+          "time": 1487795244,
+          "type": 1
+        },
+        {
+          "difficulty": 1,
+          "time": 1487795244,
+          "type": 2
+        }
+      ],
+      "name": "Heap Sort",
+      "notes": ""
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1485808044,
+          "type": 0
+        }
+      ],
+      "name": "PriorityQueue",
+      "notes": ""
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1485808044,
+          "type": 0
+        }
+      ],
+      "name": "Lock-free queue",
+      "notes": ""
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1485808044,
+          "type": 0
+        }
+      ],
+      "name": "Red - Black Tree",
+      "notes": ""
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1485808044,
+          "type": 0
+        }
+      ],
+      "name": "B+ Tree",
+      "notes": ""
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1485808044,
+          "type": 0
+        }
+      ],
+      "name": "Verlet Integration",
+      "notes": ""
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1485808044,
+          "type": 0
+        }
+      ],
+      "name": "Memorize IEEE floatingpoint format",
+      "notes": ""
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1485808044,
+          "type": 0
+        }
+      ],
+      "name": "Bloom filter",
+      "notes": ""
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1485808044,
+          "type": 0
+        }
+      ],
+      "name": "Fourier Transform",
+      "notes": ""
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1485808044,
+          "type": 0
+        }
+      ],
+      "name": "Markov Chain",
+      "notes": ""
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1485808044,
+          "type": 0
+        }
+      ],
+      "name": "LZMA",
+      "notes": ""
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1485808044,
+          "type": 0
+        }
+      ],
+      "name": "Directed Graph",
+      "notes": ""
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1485061431,
+          "type": 0
+        }
+      ],
+      "name": "KDTree",
+      "notes": ""
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1485061431,
+          "type": 0
+        }
+      ],
+      "name": "Voroni Diagram",
+      "notes": ""
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1485894444,
+          "type": 0
+        },
+        {
+          "difficulty": 2,
+          "time": 1486672044,
+          "type": 1
+        },
+        {
+          "difficulty": 2,
+          "time": 1486672044,
+          "type": 2
+        }
+      ],
+      "name": "Calculate camera ray for ray-tracing",
+      "notes": ""
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1485980844,
+          "type": 0
+        },
+        {
+          "difficulty": 2,
+          "time": 1486758444,
+          "type": 1
+        },
+        {
+          "difficulty": 0,
+          "time": 1486758444,
+          "type": 2
+        }
+      ],
+      "name": "Atom data structure",
+      "notes": "- An Atom is an acronym for Access to Memory\n- An atom is a 16-bit integer\n\nAtoms are effectivly an index into a string table.\n\nWindows creates a global atom table that is available\nto all applications.  The atoms are reference counted.\n\nThis table is querieable. \n"
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1487622444,
+          "type": 0
+        }
+      ],
+      "name": "Dijkstra's Algorithm",
+      "notes": ""
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1487622444,
+          "type": 0
+        }
+      ],
+      "name": "Implement Heapifiy",
+      "notes": ""
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1487708844,
+          "type": 0
+        }
+      ],
+      "name": "Insertion Sort",
+      "notes": ""
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1487708844,
+          "type": 0
+        }
+      ],
+      "name": "Radix Sort",
+      "notes": ""
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1487795244,
+          "type": 0
+        }
+      ],
+      "name": "IntroSort",
+      "notes": ""
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1487881644,
+          "type": 0
+        }
+      ],
+      "name": "ShellSort",
+      "notes": ""
+    },
+    {
+      "description": "What if additional data structures cannot be used?",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1491769644,
+          "type": 0
+        },
+        {
+          "difficulty": 2,
+          "time": 1491769644,
+          "type": 1
+        },
+        {
+          "difficulty": 0,
+          "time": 1491769644,
+          "type": 2
+        }
+      ],
+      "name": "Determine if string has all unique characters",
+      "notes": "- ask if its an ascii string or unicode string\n- can abort if string length is greater than number of characters in set\n- use boolean array to count if a character has occured\n  could also use a bitvector to acomplish the same result\n\nIf no aditional DS can be used:\n- O(n^2) comparison of every character\n- Sort the array in-place and compare neighbooring characters"
+    },
+    {
+      "description": "Given two strings, write a method to decide if one is a permutation of the other",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1491856044,
+          "type": 0
+        },
+        {
+          "difficulty": 2,
+          "time": 1491856044,
+          "type": 1
+        },
+        {
+          "difficulty": 1,
+          "time": 1491856044,
+          "type": 2
+        }
+      ],
+      "name": "Check Permutation",
+      "notes": "Should ask questions to clarifiy:\n- Ask if they are ASCII strings\n- Is the permutation comparison case sensitive\n- Are whitespaces significant\n\nRealize that strings of different length cannot be permutaitons\nof eachother.\n\n1: Can sort the strings and then compare the two sorted versions\n2: Can count the number of characters in each string using one\narray, first by adding and then subtracting\n\n"
+    },
+    {
+      "description": "Write a method to replace all spaces in a string with '%20'\nYou may assume that the string has sufficent space at the end\nto hold the additional characters and that you are given\nthe true length of the string",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1491942444,
+          "type": 0
+        },
+        {
+          "difficulty": 2,
+          "time": 1491942444,
+          "type": 1
+        },
+        {
+          "difficulty": 2,
+          "time": 1491942444,
+          "type": 2
+        }
+      ],
+      "name": "URLify",
+      "notes": "Edit the string starting from the end and working backwards.\n1: Count the number of spaces in the string so the end of the new\nstring is known.\n2: Edit string in reverse order.  When space is seen replace it\nwith '%20' but if there is no space replace with original character"
+    },
+    {
+      "description": "Given a string, write a function to check if it is a permutation\nof a palindrome.  ",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1492028844,
+          "type": 0
+        },
+        {
+          "difficulty": 2,
+          "time": 1492028844,
+          "type": 1
+        },
+        {
+          "difficulty": 0,
+          "time": 1492028844,
+          "type": 2
+        }
+      ],
+      "name": "Is Permutation of Palindrome",
+      "notes": "A single integer can be used as a bitvector to store\nweather or not there is currently a even or odd count of the\ncharacter(lowercase only) by toggling it\n\nThe int can be checked if it has a bit set by\ndoing (Int & (Int - 1) == 0)"
+    },
+    {
+      "description": "",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1492547244,
+          "type": 0
+        },
+        {
+          "difficulty": 2,
+          "time": 1492547244,
+          "type": 1
+        },
+        {
+          "difficulty": 1,
+          "time": 1491973200,
+          "type": 2
+        }
+      ],
+      "name": "Implement itoa",
+      "notes": ""
+    },
+    {
+      "description": "Given an image represented by an NxN matrix, where each pixel\nis 4 bytes, write a procedure to rotate the image by 90 degress.\nCan this be done in place?",
+      "events": [
+        {
+          "difficulty": 2,
+          "time": 1492633644,
+          "type": 0
+        }
+      ],
+      "name": "Rotate Image",
+      "notes": ""
+    }
+  ]
+}
